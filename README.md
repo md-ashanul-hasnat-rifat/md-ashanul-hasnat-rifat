@@ -18,9 +18,9 @@ I am an aspiring Data Analyst with a passion for turning data into actionable in
 ---
 
 ## 🛠️ Skills
-- **Data Analysis & Visualization:** Power BI, Excel, Tableau
-- **Database & Querying:** SQL, MySQL
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Data Analysis & Visualization:** Power BI, Excel
+- **Database & Querying:** SQL
+- **Programming:** Python (Pandas, NumPy, Matplotlib)
 - **Others:** Data Cleaning, EDA, Reporting, Dashboarding
 
 ---
