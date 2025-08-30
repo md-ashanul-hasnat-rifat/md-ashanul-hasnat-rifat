@@ -1,5 +1,7 @@
-# Hi there 👋, I'm Ahsanul Hasnat
-### Aspiring Data Analyst | Data Enthusiast | SQL & Power BI Learner
+![Aspiring Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQFj6WyD8NAnNQ/profile-displaybackgroundimage-shrink_350_1400/B56Zj60kR3HcAY-/0/1756554741803?e=1759363200&v=beta&t=IgkKHiFAUnbm-_YNbxJAm6a9X5D_AjtK2yq1kzXFXYo)
+# Hi there 👋, Md. I'm Ahsanul Hasnat Rifat
+### Aspiring Data Analyst | Data Enthusiast | SQL, Power BI &Python
+I specialize in analyzing and visualizing data.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahsanulhasnat.github.io)
 
@@ -33,6 +35,9 @@ I am an aspiring Data Analyst with a passion for turning data into actionable in
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
+
+📫 [Portfolio](https://md-ashanul-hasnat-rifat.github.io/md.ashanul.hssnat.rfiat.github.io/)  
+📄 [Resume](https://md-ashanul-hasnat-rifat.github.io/md.ashanul.hssnat.rfiat.github.io/)  
 
 ## 📊 Projects & Notebooks
 - [Power BI Customer Analysis Dashboard](#)
