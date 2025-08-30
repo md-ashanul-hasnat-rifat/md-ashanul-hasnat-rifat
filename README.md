@@ -23,21 +23,14 @@ I am an aspiring Data Analyst with a passion for turning data into actionable in
 - **Programming:** Python (Pandas, NumPy, Matplotlib)
 - **Others:** Data Cleaning, EDA, Reporting, Dashboarding
 
----
-
-## 📈 GitHub Stats
-![Ahsanul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsanulhasnat&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanulhasnat/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-📫 [Portfolio]([https://md-ashanul-hasnat-rifat.github.io/md.ashanul.hssnat.rfiat.github.io/](https://md-ashanul-hasnat-rifat.github.io/mahr-github.io/))  
-📄 [Resume]([https://md-ashanul-hasnat-rifat.github.io/md.ashanul.hssnat.rfiat.github.io/](https://md-ashanul-hasnat-rifat.github.io/mahr-github.io/))  
+📫 [Portfolio](https://github.com/md-ashanul-hasnat-rifat/mahr-github.io/blob/main/index.html)  
+📄 [Resume](https://github.com/md-ashanul-hasnat-rifat/mahr-github.io/blob/main/index.html)  
 
 ## 📊 Projects & Notebooks
 - [Power BI Customer Analysis Dashboard](#)
