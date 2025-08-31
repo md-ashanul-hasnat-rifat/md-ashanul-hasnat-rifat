@@ -30,7 +30,7 @@ I am an aspiring Data Analyst with a passion for turning data into actionable in
 ---
 
 📫 [Portfolio](https://md-ashanul-hasnat-rifat.github.io/mahr-github.io/)  
-📄 [Resume]([https://github.com/md-ashanul-hasnat-rifat/mahr-github.io/blob/main/index.html](https://drive.google.com/file/d/118OKDVhvsIH6IGbPlBmG5mWcobZz4lXK/view?usp=sharing))  
+📄 [Resume]([[https://github.com/md-ashanul-hasnat-rifat/mahr-github.io/blob/main/index.html](https://drive.google.com/file/d/118OKDVhvsIH6IGbPlBmG5mWcobZz4lXK/view?usp=sharing)](https://drive.google.com/file/d/118OKDVhvsIH6IGbPlBmG5mWcobZz4lXK/view?usp=sharing))  
 
 ## 📊 Projects & Notebooks
 - [Power BI Customer Analysis Dashboard](#)
